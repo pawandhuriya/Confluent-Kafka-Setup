@@ -1,8 +1,10 @@
 1. Install Python3 version (Check for Windows, Linux and Mac)
-
+>py
+check wheather python download
 2. If not then install pip3 package explicitly
 
 3. pip3 install confluent_kafka
+>py -m pip install confluent_kafka
 4. pip3 install pandas
 5. pip3 install requests
 
