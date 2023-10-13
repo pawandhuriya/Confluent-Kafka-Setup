@@ -1,5 +1,14 @@
 confluent-kafka[avro,json,protobuf]
 pyspark==3.2.1
+-----------------------------------------
+1.Install Python3 version (check for windows,linux)
+2.If not then install pip3 package explicitly
+
+3.pip3 install confluent_kafka
+
+4.pip3 install pandas
+
+5.pip3 install requests
 
 
-pip3 install 
+pip3 install jsonschema 
